@@ -20,6 +20,7 @@ services:
       - mongo1
       - mongo2
       - mongo3
+      - mongo4
 
   mongo1:
     hostname: "mongo1"
